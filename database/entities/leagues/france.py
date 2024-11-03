@@ -9,7 +9,7 @@ class Ligue1(League):
             year_start=2005,
             category='main',
             data_url='https://www.football-data.co.uk/mmz4281/{}/F1.csv',
-            fixtures_url='https://footystats.org/fr/france/ligue-1/fixtures'
+            fixtures_url='https://footystats.org/france/ligue-1/fixtures'
         )
 
 
